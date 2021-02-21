@@ -6,6 +6,4 @@
 
 ### 02-1 안드로이드 스튜디오 설치하기
 
-```
-안드로이드는 구글에서 만든 OS로 다양한 앱을 만들어 설치하면 실행될 수 있도록 구성된 앱 플랫폼이다.
-```
+* [DOWNLOAD ANDROID STUDIO](https://developer.android.com/studio)
