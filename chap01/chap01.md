@@ -1,4 +1,4 @@
-# Chapter 01
+# chapter 01
 ### Hello! 안드로이드
 ---
 ### [section 01 안드로이드란?](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section1/chap01-1.md)
