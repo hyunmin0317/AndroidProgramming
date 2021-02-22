@@ -14,7 +14,7 @@
 
 * [확인 1] 버튼 추가
 
-  ![char01-3_1](C:\Users\User\Desktop\chap01-3_1.png)
+  <img src="C:\Users\User\Desktop\chap01-3_1.png" alt="char01-3_1"  />
 
 
 
