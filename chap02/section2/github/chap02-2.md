@@ -30,21 +30,29 @@
   |            center, fill            | 대학 객체를 수직 방향과 수평 방향의 중앙에 배치하기, 여유 공간만큼 확대하여 채우기 |
   |           clip_vertical            | 대상 객체의 상하 길이가 여유 공간보다 클 경우에 남는 부분을 잘라내기 |
 
+  
+
 * gravity 속성으로 텍스트뷰 안의 글자 편집 (chap02-2_1.png)
 
-  ![chap02-2_1]
+  ![chap02-2_1](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_1.png?raw=true)
+
+  
 
 * 텍스트뷰와 버튼의 크기를 다르게 한 경우 (chap02-2_1.png)
 
-  ![chap02-2_2]
+  ![chap02-2_2](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_2.png?raw=true)
+
+  
 
 * 뷰의 마진과 패딩 설정 (chap02-2_1.png)
 
-  ![chap02-2_3]
+  ![chap02-2_3](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_3.png?raw=true)
+
+  
 
 * 여유 공간을 분할하는 layout_weight 속성 (chap02-2_1.png)
 
-  ![chap02-2_4]
+  ![chap02-2_4](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_4.png?raw=true)
 
   
 
