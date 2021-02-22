@@ -14,7 +14,7 @@
 
 * [확인 1] 버튼 추가
 
-  <img src="C:\Users\User\Desktop\chap01-3_1.png" alt="char01-3_1"  />
+  ![char03-1_1](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section3/github/chap01-3_1.png?raw=true)
 
 
 
@@ -22,12 +22,14 @@
 
 * [네이버 접속하기], [전화 걸기] 버튼 추가
 
-  ![char03-1_2](C:\Users\User\Desktop\chap01-3_2.png)
+  ![char03-1_2](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section3/github/chap01-3_2.png?raw=true)
 
 * [네이버 접속하기] 기능
 
-  ![char03-1_3](C:\Users\User\Desktop\chap01-3_3.png)
+  ![char03-1_3](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section3/github/chap01-3_3.png?raw=true)
 
 * [전화 걸기] 기능
 
-  ![char03-1_4](C:\Users\User\Desktop\chap01-3_4.png)
+  ![char03-1_4](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section3/github/chap01-3_4.png?raw=true)
+  
+  
