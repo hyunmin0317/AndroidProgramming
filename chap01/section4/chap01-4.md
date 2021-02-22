@@ -8,4 +8,10 @@
 
 * [삼성 통합 USB 드라이버 설치](https://www.samsungsvc.co.kr/online/downLoadMain.do?isDownload=S)
 
+
+
 ### 04-2 에뮬레이터로 Hello World 앱 실행하기
+
+* PC와 삼성 단말기 연결
+
+  
