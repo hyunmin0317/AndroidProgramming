@@ -12,6 +12,10 @@
 
 ### 04-2 에뮬레이터로 Hello World 앱 실행하기
 
-* PC와 삼성 단말기 연결
+- PC와 삼성 단말기 연결
 
-  
+  ![chap01-4_1](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section4/char01-4_1.png?raw=true)
+
+- 삼성 단말기에서 앱 실행
+
+  <img src="https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section4/char01-4_2.jpg?raw=true" alt="chap01-4_2" style="zoom: 33%;" />
