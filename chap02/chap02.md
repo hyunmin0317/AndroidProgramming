@@ -1,7 +1,7 @@
 # chap 02 안드로이드 완벽 가이드
 
-### section 01 안드로이드 스튜디오와 친숙해지기
-### section 02 레이아웃 익히기
+### [section 01 안드로이드 스튜디오와 친숙해지기](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section1/github/chap02-1.md)
+### [section 02 레이아웃 익히기](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2.md)
 
 ### section 03 기본 위젯과 드로어블 사용하기
 
