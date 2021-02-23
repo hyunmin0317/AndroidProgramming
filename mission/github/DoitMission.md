@@ -14,8 +14,9 @@
 
 ### 03 두 개의 이미지뷰에 이미지 번갈아 보여주기
 
-![DoitMission03]
+![DoitMission03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/mission/github/DoitMission03.png?raw=true)
 
 ### 04 SMS 입력 화면 만들고 글자의 수 표시하기
 
-![DoitMission04]
+![DoitMission04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/mission/github/DoitMission04.png?raw=true)
+
