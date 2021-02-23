@@ -44,13 +44,13 @@
 
   
 
-* 뷰의 마진과 패딩 설정 (chap02-2_1.png)
+* 뷰의 마진과 패딩 설정 (chap02-2_3.png)
 
   ![chap02-2_3](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_3.png?raw=true)
 
   
 
-* 여유 공간을 분할하는 layout_weight 속성 (chap02-2_1.png)
+* 여유 공간을 분할하는 layout_weight 속성 (chap02-2_4.png)
 
   ![chap02-2_4](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_4.png?raw=true)
 
@@ -58,9 +58,40 @@
 
 ### 02-3 상대 레이아웃 사용하기
 
+* 상대 레이아웃 사용 (chap02-2_5.png)
+
+  ![chap02-2_5]
+
+* 상대 레이아웃에서 부모 컨테이너와의 상대적 위치를 이용하는 속성
+
+  |                    속성                     |                             설명                             |
+  | :-----------------------------------------: | :----------------------------------------------------------: |
+  | layout_alignParentTop, Bottom, Left, Right  | 부모 컨테이너의 위쪽, 아래쪽, 왼쪽 끝, 오른쪽 끝과 뷰를 맞춤 |
+  | layout_centerHorizontal, Vertical, InParent |  부모 컨테이너의 수평, 수직, 수평과 수직 방향 중앙에 배치함  |
+
+* 상대 레이아웃에서 다른 뷰와의 상대적 위치를 이용하는 속성
+
+  |                        속성                         |                        설명                         |
+  | :-------------------------------------------------: | :-------------------------------------------------: |
+  |      layout_above, below, toLeftOf, toRightOf       |   지정한 뷰의 위쪽, 아래쪽, 왼쪽, 오른쪽에 배치함   |
+  | layout_alignTop, alignBottom, alignLeft, alignRight |    지정한 뷰의 위쪽, 아래쪽, 왼쪽, 오른쪽과 맞춤    |
+  |                layout_alignBaseline                 | 지정한 뷰와 내용물의 아래쪽 기준선(baseline)을 맞춤 |
+
 ### 02-4 테이블 레이아웃
+
+* 테이블 레이아웃 사용 (chap02-2_6.png)
+
+  ![chap02-2_6]
 
 ### 02-5 프레임 레이아웃과 뷰의 전환
 
+* 프레임 레이아웃을 이용해 이미지뷰 전환 (chap02-2_7.png)
+
+  ![chap02-2_7]
+
 ### 02-6 스크롤뷰 사용하기
+
+* 스크롤뷰 사용 (chap02-2_8.png)
+
+  ![chap02-2_8]
 
