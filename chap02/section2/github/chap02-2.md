@@ -60,7 +60,7 @@
 
 * 상대 레이아웃 사용 (chap02-2_5.png)
 
-  ![chap02-2_5]
+  ![chap02-2_5](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_5.png?raw=true)
 
 * 상대 레이아웃에서 부모 컨테이너와의 상대적 위치를 이용하는 속성
 
@@ -81,17 +81,18 @@
 
 * 테이블 레이아웃 사용 (chap02-2_6.png)
 
-  ![chap02-2_6]
+  ![chap02-2_6](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_6.png?raw=true)
 
 ### 02-5 프레임 레이아웃과 뷰의 전환
 
 * 프레임 레이아웃을 이용해 이미지뷰 전환 (chap02-2_7.png)
 
-  ![chap02-2_7]
+  ![chap02-2_7](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_7.png?raw=true)
 
 ### 02-6 스크롤뷰 사용하기
 
 * 스크롤뷰 사용 (chap02-2_8.png)
 
-  ![chap02-2_8]
-
+  ![chap02-2_8](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_8.png?raw=true)
+  
+  
