@@ -107,7 +107,7 @@
 
 * 토스트 메시지를 만들어서 보여주는 전형적인 방법
 
-  ```xml
+  ```java
   Toast.makeText(Context context, String message, int duration).show();
   ```
 
