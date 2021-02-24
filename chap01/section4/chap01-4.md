@@ -1,6 +1,6 @@
 # chap 01-4 실제 단말 연결하기
 
-​																																											2021.02.22
+2021.02.22
 
 
 
@@ -14,8 +14,8 @@
 
 - PC와 삼성 단말기 연결
 
-  ![chap01-4_1](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section4/char01-4_1.png?raw=true)
+  ![chap01-4/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section4/image01.png?raw=true)
 
 - 삼성 단말기에서 앱 실행
 
-  <img src="https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section4/char01-4_2.jpg?raw=true" alt="chap01-4_2" style="zoom: 33%;" />
+  <img src="https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section4/image02.jpg?raw=true" alt="chap01-4/image02" style="zoom:25%;" />
