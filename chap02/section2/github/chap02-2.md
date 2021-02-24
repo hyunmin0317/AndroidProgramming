@@ -32,35 +32,35 @@
 
   
 
-* gravity 속성으로 텍스트뷰 안의 글자 편집 (chap02-2_1.png)
+* gravity 속성으로 텍스트뷰 안의 글자 편집
 
-  ![chap02-2_1](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_1.png?raw=true)
-
-  
-
-* 텍스트뷰와 버튼의 크기를 다르게 한 경우 (chap02-2_1.png)
-
-  ![chap02-2_2](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_2.png?raw=true)
+  ![chap02-2/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image01.png?raw=true)
 
   
 
-* 뷰의 마진과 패딩 설정 (chap02-2_3.png)
+* 텍스트뷰와 버튼의 크기를 다르게 한 경우
 
-  ![chap02-2_3](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_3.png?raw=true)
+  ![chap02-2/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image02.png?raw=true)
 
   
 
-* 여유 공간을 분할하는 layout_weight 속성 (chap02-2_4.png)
+* 뷰의 마진과 패딩 설정
 
-  ![chap02-2_4](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_4.png?raw=true)
+  ![chap02-2/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image03.png?raw=true)
+
+  
+
+* 여유 공간을 분할하는 layout_weight 속성
+
+  ![chap02-2/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image04.png?raw=true)
 
   
 
 ### 02-3 상대 레이아웃 사용하기
 
-* 상대 레이아웃 사용 (chap02-2_5.png)
+* 상대 레이아웃 사용
 
-  ![chap02-2_5](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_5.png?raw=true)
+  ![chap02-2/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image05.png?raw=true)
 
 * 상대 레이아웃에서 부모 컨테이너와의 상대적 위치를 이용하는 속성
 
@@ -79,20 +79,20 @@
 
 ### 02-4 테이블 레이아웃
 
-* 테이블 레이아웃 사용 (chap02-2_6.png)
+* 테이블 레이아웃 사용
 
-  ![chap02-2_6](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_6.png?raw=true)
+  ![chap02-2/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image06.png?raw=true)
 
 ### 02-5 프레임 레이아웃과 뷰의 전환
 
-* 프레임 레이아웃을 이용해 이미지뷰 전환 (chap02-2_7.png)
+* 프레임 레이아웃을 이용해 이미지뷰 전환
 
-  ![chap02-2_7](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_7.png?raw=true)
+  ![chap02-2/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image07.png?raw=true)
 
 ### 02-6 스크롤뷰 사용하기
 
-* 스크롤뷰 사용 (chap02-2_8.png)
+* 스크롤뷰 사용
 
-  ![chap02-2_8](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/chap02-2_8.png?raw=true)
+  ![chap02-2/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image08.png?raw=true)
   
   
