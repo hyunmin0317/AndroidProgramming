@@ -18,4 +18,6 @@
 
 - 삼성 단말기에서 앱 실행
 
-  <img src="https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section4/image02.jpg?raw=true" alt="chap01-4/image02" style="zoom:25%;" />
+  ![chap01-4/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap01/section4/image02.jpg?raw=true)
+  
+  
