@@ -69,9 +69,8 @@
 
 * 화면의 일부분을 XML 레이아웃으로 정의하여 추가 (SampleLayoutInflater)
 
-  ![chap02-4/01]()
+  ![chap02-4/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image01.png?raw=true)
 
-  
 
 ### 04-2 여러 화면 만들고 화면 간 전환하기
 
@@ -98,29 +97,11 @@
 
     * 새 액티비티에서 원래의 액티비티로 돌아올 때 응답을 받아 처리하고 어떤 액티비티에서 돌아온 응답인지 구분해야 할 때 사용됨
 
-* ㅇ
+* 화면의 일부분을 XML 레이아웃으로 정의하여 추가 (SampleIntent)
 
-* ㅇ
+  ![chap02-4/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image02.png?raw=true)
 
-* ㅇ
-
-* ㅇ
-
-* ㅇ
-
-* ㅇ
-
-* ㅇ
-
-* ㅇ
-
-* ㅇ
-
-* ㅇ
-
-* ㅇ
-
-* ㅇ
+  
 
 ### 04-3 인텐트 살펴보기
 
@@ -129,6 +110,3 @@
 ### 04-5 태스크 관리 이해하기
 
 ### 04-6 액티비티의 수명주기와 SharedPreferences 이해하기
-
-
-
