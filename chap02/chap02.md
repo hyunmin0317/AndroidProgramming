@@ -5,7 +5,7 @@
 
 ### [section 03 기본 위젯과 드로어블 사용하기](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/chap02-3.md)
 
-### section 04 여러 화면 간 전환하기
+### [section 04 여러 화면 간 전환하기](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/chap02-4.md)
 
 ### section 05 프래그먼트 이해하기
 
