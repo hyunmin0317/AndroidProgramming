@@ -1,3 +1,5 @@
+
+
 # chap 02-4 여러 화면 간 전환하기
 
 2021.02.25
@@ -22,6 +24,8 @@
 
     - 객체화된 XML 레이아웃을 소스 파일에서 사용
 
+  
+
 * 메인 레이아웃과 부분 레이아웃을 메모리에 객체화하는 방법
 
   * 메인 레이아웃 - setContentView() 메서드 사용
@@ -35,6 +39,8 @@
       public void setContentView (View view, [ViewGroup.LayoutParams params])	// 화면에 나타낼 뷰를 지정
       ```
 
+    
+
   * 부분 레이아웃 - 인플레이터 사용
 
     * 시스템 서비스로 제공되는 LayoutInflater 클래스를 getSystemService() 메서드를 이용하여 참조한 후 사용
@@ -43,9 +49,23 @@
 
     * getSystemService() 메서드가 정의된 형태
 
-      ```
+      ```java
       getSystemService(Context.LAYOUT_INFLATER_SERVICE)
       ```
+
+    * LayoutInflater 객체 정의
+
+      ```java
+      static LayoutInflater LayoutInflater.from (Context context)
+      ```
+
+    * LayoutInflater의 inflate() 메서드 정의
+
+      ```java
+      View inflate (int resource, ViewGroup root)
+      ```
+
+  
 
 * 화면의 일부분을 XML 레이아웃으로 정의하여 추가 (SampleLayoutInflater)
 
@@ -54,6 +74,26 @@
   
 
 ### 04-2 여러 화면 만들고 화면 간 전환하기
+
+* 안드로이드 앱의 구성 요소 (앱의 4가지 구성 요소의 정보는 AndroidManifest.xml 파일에 담겨 있음)
+  * 액티비티
+    * 화면을 구현하는 요소로 화면을 필요에 따라 띄우거나 닫는 과정은 액티비티를 전환하는 것과 같음
+  * 서비스
+  * 브로드캐스트 수신자
+  * 내용 제공자
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
+* ㅇ
 
 ### 04-3 인텐트 살펴보기
 
