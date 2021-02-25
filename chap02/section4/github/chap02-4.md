@@ -105,6 +105,55 @@
 
 ### 04-3 인텐트 살펴보기
 
+* 인텐트의 역할과 사용 방식
+  * 앱 구성 요소 간에 작업 수행을 위한 정보를 전달하는 역할을 하며 android.content 패키지 안에 정의되어 있음
+  
+  * 다른 앱 구성 요소에 인텐트를 전달할 수 있는 대표적인 메서드
+  
+    * startActivity() 또는 startActivityForResult() : 액티비티를 화면에 띄울 때 사용
+    * startService() 또는 bindService() : 서비스를 시작할 때 사용
+    * broadcastIntent() 인텐트 객체를 브로드캐스팅 방식으로 전송할 때 사용 
+  
+  * 인텐트의 기본 구성 요소
+  
+    * 액션 (Action) : 수행할 기능
+  
+    * 데이터 (Data) : 액션이 수행될 대상의 데이터
+  
+    * 액션과 데이터를 사용하는 대표적인 예
+  
+      |                  속성                   |                             설명                             |
+      | :-------------------------------------: | :----------------------------------------------------------: |
+      |       ACTION_DIAL tel:01077881234       |       주어진 전화번호를 이용해 전화걸기 화면을 보여줌        |
+      |       ACTION_VIEW tel:01077881234       | 전화걸기 화면을 보여줌, URL 값의 유형에 따라 VIEW 액션이 다른 기능을 수행함 |
+      | ACTION_EDIT content://contacts/people/2 | 전화번호부 데이터베이스에 있는 정보 중에서 ID 값이 2인 정보를 편집하기 위한 화면을 보여줌 |
+      |  ACTION_VIEW content://contacts/people  |           전화번호부 데이터베이스의 내용을 보여줌            |
+  
+  * 인텐트의 생성자
+  
+    ```java
+    Intent()
+    Intent(Intent o)
+    Intent(String action [,URI uri])
+    Intent(Context packageContext, Class<?> cls)
+    Intent(String action, Uri uri, Context packageContext, Class<?> cls)
+    ```
+  
+* 명시적 인텐트 (Explicit Intent) : 인텐트에 클래스 객체나 컴포넌트 이름을 지정하여 호출할 대상을 확실히 알 수 있는 경우
+
+* 암시적 인텐트 (Implicit Intent) : 액션과 데이터를 지정하긴 했지만 호출할 대상이 달라질 수 있는 경우
+
+  * MIME 타입에 따라 시스템에서 적절한 다른 앱의 액티비티를 찾은 후 띄우는 방식
+  * 암시적 인텐트의 대표적인 속성
+    * 범주 (Category) : 액션이 실행되는 데 필요한 추가적인 정보를 제공
+    * 타입 (Type) : 인텐트에 들어가는 데이터의 MIME 타입을 명시적으로 지정
+    * 컴포넌트 (Component) : 인텐트에 사용될 컴포넌트 클래스 이름을 명시적으로 지정
+    * 부가 데이터 (Extra Data) : 인텐트의 번들 객체에 담을 수 있는 추가적인 정보
+
+* 인텐트의 액션을 이용한 전화걸기
+
+  ![chap02-4/image03]()
+
 ### 04-4 플래그와 부가 데이터 사용하기
 
 ### 04-5 태스크 관리 이해하기
