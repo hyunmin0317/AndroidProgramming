@@ -154,8 +154,40 @@
 
   ![chap02-4/image03]()
 
+  
+
 ### 04-4 플래그와 부가 데이터 사용하기
 
+* 플래그
+
+  * 동일한 액티비티를 여러 번 실행하여 동시에 데이터를 여러 번 접근하거나 리소스를 여러 번 사용하는 문제를 해결할 수 있도록 도와줌
+  * 대표적인 플래그들
+    * FLAG_ACTIVITY_SINGLE_TOP : 액티비티를 생성할 때 이미 생성된 액티비티가 있으면 그대로 사용하라는 플래그
+    * FLAG_ACTIVITY_NO_HISTORY : 처음 이후에 실행된 액티비티는 액티비티 스택에 추가되지 않는 플래그
+    * FLAG_ACTIVITY_CLEAR_TOP : 이 액티비티 위에 있는 다른 액티비티를 모두 종료시키는 플래그
+
+* 부가 데이터
+
+  * 한 액티비티에서 다른  액티비티를 띄울 때 데이터를 전달해야 하는 경우에 사용됨 
+
+  * 시스템에서는 건드리지 않고 다른 앱 구성 요소로 전달되며 번들 객체 안에 넣은 데이터
+
+  * 부가 데이터를 사용하는 대표적인 메서드
+
+    ```java
+    Intent putExtra(String name, String value)
+    Intent putExtra(String name, int value)
+    Intent putExtra(String name, boolean value)
+    
+    String getStringExtra(String name)
+    int getIntExtra(String name, int defaultValue)
+    boolean getBooleanExtra(String name, boolean defaultValue)
+    ```
+
+
+
 ### 04-5 태스크 관리 이해하기
+
+
 
 ### 04-6 액티비티의 수명주기와 SharedPreferences 이해하기
