@@ -143,9 +143,7 @@
 
   * 상단의 액션바에 보이는 메뉴 (SampleOptionMenu)
 
-    ![chap02-5/image02]()
-
-    
+    ![chap02-5/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image03.png?raw=true)
 
 * 액션바 좀 더 살펴보기
 
@@ -168,7 +166,13 @@
     |  DISPLAY_HOME_AS_UP  | 홈 아이콘에 뒤로 가기 모양의 < 아이콘을 같이 표시 |
     |  DISPLAY_SHOW_TITLE  |                   타이틀을 표시                   |
 
-    
+  * 버튼을 눌러 액션바에 아이콘을 표시한 화면
+
+    ![chap02-5/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image04.png?raw=true)
+
+  * 액션바에 보이는 검색어 입력상자
+
+    ![chap02-5/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image05.png?raw=true)
 
 ### 05-4 상단 탭과 하단 탭 만들기
 
