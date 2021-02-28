@@ -206,3 +206,7 @@
 * 바로가기 메뉴
   * 몇 개의 화면에서 공통으로 보여줄 수 있어 빠르게 메뉴 기능에 접근하거나 메뉴를 보여줄 때 사용
   * 안드로이드에서는 NavigationDrawer라고 불림
+  
+* 바로가기 메뉴 화면에서 메뉴를 눌렀을 때 전환되는 프래그먼트
+
+  ![chap02-5/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image08.png?raw=true)
