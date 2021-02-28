@@ -2,7 +2,7 @@
 
 # chap 02-5 프래그먼트 이해하기
 
-2021.02.27
+2021.02.28
 
 
 
@@ -178,7 +178,20 @@
 
 * 상단 탭 보여주기
   * 탭 (Tab) : 하나의 뷰에서 여러 개의 정보를 볼 때 일반적으로 사용하는 뷰
-  * 
+  
+  * 상단 탭을 눌렀을 때 프래그먼트가 바뀌는 화면 (SampleTab)
+  
+    ![chap02-5/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image06.png?raw=true)
+  
+* 하단 탭 보여주기
+
+  * 하단 탭을 눌렀을 때 프래그먼트가 바뀌는 화면 (SampleTab2)
+
+    ![chap02-5/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image06.png?raw=true)
+
+    
 
 ### 05-5 뷰페이저 만들기
+
+### 05-6 바로가기 메뉴 만들기
 
