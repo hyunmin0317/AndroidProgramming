@@ -131,6 +131,16 @@
     SubMenu addSubMenu(int titleRes)
     ```
 
+  * showAsAction 속성에 설정할 수 있는 값
+
+    | showAsAction 속성 값 | 설명 |
+    | :------------------: | :--: |
+    |        always        |      |
+    |        never         |      |
+    |        ifRoom        |      |
+    |       withText       |      |
+    |  collapseActionView  |      |
+
     
 
 * 액션바 좀 더 살펴보기
