@@ -187,7 +187,7 @@
 
   * 하단 탭을 눌렀을 때 프래그먼트가 바뀌는 화면 (SampleTab2)
 
-    ![chap02-5/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image06.png?raw=true)
+    ![chap02-5/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image07.png?raw=true)
 
     
 
