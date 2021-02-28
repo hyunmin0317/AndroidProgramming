@@ -1,8 +1,7 @@
 package org.techtown.fragment;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     MainFragment mainFragment;
@@ -18,9 +17,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onFragmentChanged(int index) {
-        if (index == 0)
+        if (index == 0) {
             getSupportFragmentManager().beginTransaction().replace(R.id.container, menuFragment).commit();
-        else if (index == 1)
+        } else if (index == 1) {
             getSupportFragmentManager().beginTransaction().replace(R.id.container, mainFragment).commit();
+        }
     }
 }
