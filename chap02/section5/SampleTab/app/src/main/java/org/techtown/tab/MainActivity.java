@@ -53,7 +53,8 @@ public class MainActivity extends AppCompatActivity {
                 } else if (position == 2) {
                     selected = fragment3;
                 }
-                getSupportFragmentManager().beginTransaction().replace(R.id.container, selected).commit();
+                getSupportFragmentManager().beginTransaction()
+                        .replace(R.id.container, selected).commit();
             }
 
             @Override
