@@ -65,7 +65,7 @@
 
 * 프래그먼트로 화면 만들기 (SampleFragment)
 
-  ![chap02-5/image01]()
+  ![chap02-5/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image01.png?raw=true)
 
 * 프래그먼트가 화면에 보이기 전까지 호출될 수 있는 수명주기 메서드
 
@@ -101,7 +101,7 @@
 
 * 프래그먼트로 화면 만들기
 
-  ![chap02-5/image02]()
+  ![chap02-5/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image02.png?raw=true)
 
   
 
