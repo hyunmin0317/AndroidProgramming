@@ -107,6 +107,34 @@
 
 ### 05-3 액션바 사용하기
 
+* 화면에 메뉴 기능 넣기
+
+  * 메뉴 기능
+
+    |     속성      |                             설명                             |
+    | :-----------: | :----------------------------------------------------------: |
+    |   옵션 메뉴   | 시스템 [메뉴] 버튼을 눌렀을 때 나타나는 메뉴로 각 화면마다 설정할 수 있는 주요 메뉴 |
+    | 컨텍스트 메뉴 | 화면을 길게 누르면 나타나는 메뉴로 뷰에 설정하여 나타나게 할 수 있고 텍스트뷰의 편집 상태를 바꿀 때 사용함 |
+
+  * 메뉴에 액티비티를 추가하고 싶을 때 사용하는 메서드
+
+    ```java
+    public boolean onCreateOptionsMenu(Menu menu)
+    public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo)
+    ```
+
+  * 메뉴 아이템을 추가할 수 있는 대표적인 메서드
+
+    ```java
+    MenuItem add(int groupId, int itemId, int order, CharSequence title)
+    MenuItem add(int groupId, int itemId, int order, int titleRes)
+    SubMenu addSubMenu(int titleRes)
+    ```
+
+    
+
+* 액션바 좀 더 살펴보기
+
 ### 05-4 상단 탭과 하단 탭 만들기
 
 ### 05-5 뷰페이저 만들기
