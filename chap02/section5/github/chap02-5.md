@@ -209,4 +209,4 @@
   
 * 바로가기 메뉴 화면에서 메뉴를 눌렀을 때 전환되는 프래그먼트
 
-  ![chap02-5/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image08.png?raw=true)
+  ![chap02-5/image09](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image09.png?raw=true)
