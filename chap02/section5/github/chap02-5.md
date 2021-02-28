@@ -193,5 +193,16 @@
 
 ### 05-5 뷰페이저 만들기
 
+* 뷰페이저 : 손가락으로 좌우 스크롤하여 넘겨볼 수 있는 기능을 제공
+
+* 뷰페이저를 이용해 표시한 프래그먼트 화면들
+
+  ![chap02-5/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image08.png?raw=true)
+
+  
+
 ### 05-6 바로가기 메뉴 만들기
 
+* 바로가기 메뉴
+  * 몇 개의 화면에서 공통으로 보여줄 수 있어 빠르게 메뉴 기능에 접근하거나 메뉴를 보여줄 때 사용
+  * 안드로이드에서는 NavigationDrawer라고 불림
