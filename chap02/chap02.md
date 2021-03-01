@@ -9,7 +9,7 @@
 
 ### [section 05 프래그먼트 이해하기](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/chap02-5.md)
 
-### section 06 서비스와 수신자 이해하기
+### [section 06 서비스와 수신자 이해하기](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section6/github/chap02-6.md)
 
 ### section 07 선택 위젯 만들기
 
