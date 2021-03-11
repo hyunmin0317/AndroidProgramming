@@ -4,7 +4,7 @@
 
 2021.02.25
 
-
+<br>
 
 ### 04-1 레이아웃 인플레이션 이해하기
 
@@ -39,8 +39,6 @@
       public void setContentView (View view, [ViewGroup.LayoutParams params])	// 화면에 나타낼 뷰를 지정
       ```
 
-    
-
   * 부분 레이아웃 - 인플레이터 사용
 
     * 시스템 서비스로 제공되는 LayoutInflater 클래스를 getSystemService() 메서드를 이용하여 참조한 후 사용
@@ -50,27 +48,26 @@
     * getSystemService() 메서드가 정의된 형태
 
       ```java
-      getSystemService(Context.LAYOUT_INFLATER_SERVICE)
+    getSystemService(Context.LAYOUT_INFLATER_SERVICE)
       ```
-
+  
     * LayoutInflater 객체 정의
 
       ```java
-      static LayoutInflater LayoutInflater.from (Context context)
+    static LayoutInflater LayoutInflater.from (Context context)
       ```
-
+  
     * LayoutInflater의 inflate() 메서드 정의
 
       ```java
-      View inflate (int resource, ViewGroup root)
+    View inflate (int resource, ViewGroup root)
       ```
-
   
-
 * 화면의 일부분을 XML 레이아웃으로 정의하여 추가 (SampleLayoutInflater)
 
   ![chap02-4/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image01.png?raw=true)
 
+<br>
 
 ### 04-2 여러 화면 만들고 화면 간 전환하기
 
@@ -101,7 +98,8 @@
 
   ![chap02-4/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image02.png?raw=true)
 
-  
+
+<br>
 
 ### 04-3 인텐트 살펴보기
 
@@ -154,7 +152,8 @@
 
   ![chap02-4/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image03.png?raw=true)
 
-  
+
+<br>
 
 ### 04-4 플래그와 부가 데이터 사용하기
 
@@ -184,7 +183,7 @@
     boolean getBooleanExtra(String name, boolean defaultValue)
     ```
 
-
+<br>
 
 ### 04-5 태스크 관리 이해하기
 
@@ -197,7 +196,8 @@
 
   ![chap02-4/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image04.png?raw=true)
 
-  
+
+<br>
 
 ### 04-6 액티비티의 수명주기와 SharedPreferences 이해하기
 
