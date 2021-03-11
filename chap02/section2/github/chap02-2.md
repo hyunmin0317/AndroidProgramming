@@ -1,8 +1,8 @@
 # chap 02-2 레이아웃 익히기
 
-​																																																												2021.02.23
+2021.02.23
 
-
+<br>
 
 ### 02-1 안드로이드에 포함된 대표적인 레이아웃 살펴보기
 
@@ -27,7 +27,7 @@
   * 프레임 레이아웃 (FrameLayout): 뷰나 뷰그룹을 중첩하여 쌓으며 가장 위에 있는 하나의 뷰만 화면에 보여지는 레이아웃
   * 테이블 레이아웃 (TableLayout):  안에 들어가는 뷰들을 격자 형태로 만들어 주는 레이아웃
 
-
+<br>
 
 ### 02-2 리니어 레이아웃 사용하기
 
@@ -72,7 +72,8 @@
 
   ![chap02-2/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image04.png?raw=true)
 
-  
+
+<br>
 
 ### 02-3 상대 레이아웃 사용하기
 
@@ -95,11 +96,15 @@
   | layout_alignTop, alignBottom, alignLeft, alignRight |    지정한 뷰의 위쪽, 아래쪽, 왼쪽, 오른쪽과 맞춤    |
   |                layout_alignBaseline                 | 지정한 뷰와 내용물의 아래쪽 기준선(baseline)을 맞춤 |
 
+<br>
+
 ### 02-4 테이블 레이아웃
 
 * 테이블 레이아웃 사용
 
   ![chap02-2/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image06.png?raw=true)
+
+<br>
 
 ### 02-5 프레임 레이아웃과 뷰의 전환
 
@@ -107,10 +112,11 @@
 
   ![chap02-2/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image07.png?raw=true)
 
+<br>
+
 ### 02-6 스크롤뷰 사용하기
 
 * 스크롤뷰 사용
 
   ![chap02-2/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image08.png?raw=true)
-  
   
