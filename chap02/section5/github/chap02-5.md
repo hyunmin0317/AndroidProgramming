@@ -4,7 +4,7 @@
 
 2021.02.28
 
-
+<br>
 
 ### 05-1 프래그먼트란?
 
@@ -95,7 +95,7 @@
   getSupportFragmentManager().beginTransaction().add(fragment).commit();	// 액티비티에 추가된 후 프래그먼트로 동작함
   ```
 
-
+<br>
 
 ### 05-2 프래그먼트로 화면 만들기
 
@@ -103,7 +103,8 @@
 
   ![chap02-5/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image02.png?raw=true)
 
-  
+
+<br>
 
 ### 05-3 액션바 사용하기
 
@@ -174,6 +175,8 @@
 
     ![chap02-5/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image05.png?raw=true)
 
+<br>
+
 ### 05-4 상단 탭과 하단 탭 만들기
 
 * 상단 탭 보여주기
@@ -189,7 +192,8 @@
 
     ![chap02-5/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image07.png?raw=true)
 
-    
+
+<br>
 
 ### 05-5 뷰페이저 만들기
 
@@ -199,7 +203,8 @@
 
   ![chap02-5/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image08.png?raw=true)
 
-  
+
+<br>
 
 ### 05-6 바로가기 메뉴 만들기
 
