@@ -2,7 +2,7 @@
 
 2021.02.24
 
-
+<br>
 
 ### 03-1 기본 위젯 다시 한 번 자세히 공부하기
 
@@ -21,6 +21,8 @@
 * 이미지 버튼과 이미지뷰를 추가한 화면 레이아웃
 
   ![chap02-3/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image04.png?raw=true)
+
+<br>
 
 ### 03-2 드로어블 만들기
 
@@ -43,6 +45,8 @@
 * 셰이프 드로어블 만들기
 
   ![chap02-3/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image06.png?raw=true)
+
+<br>
 
 ### 03-3 이벤트 처리 이해하기
 
@@ -101,6 +105,8 @@
 
   ![chap02-3/image11](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image11.png?raw=true)
 
+<br>
+
 ### 03-4 토스트, 스낵바 그리고 대화상자 사용하기
 
 * 토스트: 간단한 메시지를 잠깐 보여주었다가 없어지는 뷰로 사용자에게 필요한 정보를 알려주는 역할을 하는 대표적인 위젯
@@ -130,6 +136,8 @@
 
   ![chap02-3/image14](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image14.png?raw=true)
 
+<br>
+
 ### 03-5 프로그레스바 사용하기
 
 * 프로그레스바: 어떤 일의 진행 상태를 중간 중간 보여줄 수 있는 가장 좋은 방법 중 하나로 작업의 진행 정도나 진행 상태를 사용자에게 알려줌
@@ -155,4 +163,3 @@
 * 화면에 추가된 막대형 프로그레스바와 대화상자로 띄운 원형 프로그레스바
 
   ![chap02-3/image15](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image15.png?raw=true)
-
