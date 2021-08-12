@@ -60,12 +60,12 @@
     * LayoutInflater의 inflate() 메서드 정의
 
       ```java
-    View inflate (int resource, ViewGroup root)
+      View inflate (int resource, ViewGroup root)
       ```
   
 * 화면의 일부분을 XML 레이아웃으로 정의하여 추가 (SampleLayoutInflater)
 
-  ![chap02-4/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image01.png?raw=true)
+  ![chap02-4/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section4/image01.png?raw=true)
 
 <br>
 
@@ -96,7 +96,7 @@
 
 * 화면의 일부분을 XML 레이아웃으로 정의하여 추가 (SampleIntent)
 
-  ![chap02-4/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image02.png?raw=true)
+  ![chap02-4/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section4/image02.png?raw=true)
 
 
 <br>
@@ -150,7 +150,7 @@
 
 * 인텐트의 액션을 이용한 전화걸기 (SampleCallIntent)
 
-  ![chap02-4/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image03.png?raw=true)
+  ![chap02-4/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section4/image03.png?raw=true)
 
 
 <br>
@@ -194,7 +194,7 @@
 
 * 프로세스와 태스크를 이용한 앱을 실행한 화면 (SampleTatk)
 
-  ![chap02-4/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image04.png?raw=true)
+  ![chap02-4/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section4/image04.png?raw=true)
 
 
 <br>
@@ -235,6 +235,6 @@
 
 * 액티비티 수명주기를 보여주는 앱 실행 화면
 
-  ![chap02-4/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section4/github/image05.png?raw=true)
+  ![chap02-4/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section4/image05.png?raw=true)
 
   

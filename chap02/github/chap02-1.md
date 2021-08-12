@@ -68,4 +68,4 @@
 
   * 도전! 안드로이드 미션 01 - 02 (화면 아래쪽에 두개의 버튼 추가하기 - 위, 아래, 중앙의 공간을 차지하는 전형적인 화면 구성하기
   
-    ![chap02-1/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section1/github/image01.png?raw=true)
+    ![chap02-1/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section1/image01.png?raw=true)

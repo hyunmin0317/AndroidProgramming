@@ -65,7 +65,7 @@
 
 * 프래그먼트로 화면 만들기 (SampleFragment)
 
-  ![chap02-5/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image01.png?raw=true)
+  ![chap02-5/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section5/image01.png?raw=true)
 
 * 프래그먼트가 화면에 보이기 전까지 호출될 수 있는 수명주기 메서드
 
@@ -101,7 +101,7 @@
 
 * 프래그먼트로 화면 만들기
 
-  ![chap02-5/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image02.png?raw=true)
+  ![chap02-5/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section5/image02.png?raw=true)
 
 
 <br>
@@ -144,7 +144,7 @@
 
   * 상단의 액션바에 보이는 메뉴 (SampleOptionMenu)
 
-    ![chap02-5/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image03.png?raw=true)
+    ![chap02-5/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section5/image03.png?raw=true)
 
 * 액션바 좀 더 살펴보기
 
@@ -169,11 +169,11 @@
 
   * 버튼을 눌러 액션바에 아이콘을 표시한 화면
 
-    ![chap02-5/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image04.png?raw=true)
+    ![chap02-5/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section5/image04.png?raw=true)
 
   * 액션바에 보이는 검색어 입력상자
 
-    ![chap02-5/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image05.png?raw=true)
+    ![chap02-5/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section5/image05.png?raw=true)
 
 <br>
 
@@ -184,13 +184,13 @@
   
   * 상단 탭을 눌렀을 때 프래그먼트가 바뀌는 화면 (SampleTab)
   
-    ![chap02-5/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image06.png?raw=true)
+    ![chap02-5/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section5/image06.png?raw=true)
   
 * 하단 탭 보여주기
 
   * 하단 탭을 눌렀을 때 프래그먼트가 바뀌는 화면 (SampleTab2)
 
-    ![chap02-5/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image07.png?raw=true)
+    ![chap02-5/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section5/image07.png?raw=true)
 
 
 <br>
@@ -201,7 +201,7 @@
 
 * 뷰페이저를 이용해 표시한 프래그먼트 화면들
 
-  ![chap02-5/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image08.png?raw=true)
+  ![chap02-5/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section5/image08.png?raw=true)
 
 
 <br>
@@ -214,4 +214,4 @@
   
 * 바로가기 메뉴 화면에서 메뉴를 눌렀을 때 전환되는 프래그먼트
 
-  ![chap02-5/image09](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section5/github/image09.png?raw=true)
+  ![chap02-5/image09](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section5/image09.png?raw=true)

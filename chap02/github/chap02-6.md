@@ -19,7 +19,7 @@
 
 * 서비스로부터 전달받은 인텐트를 액티비티에서 처리한 결과
 
-  ![chap02-6/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section6/github/image01.png)
+  ![chap02-6/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section6/image01.png?raw=true)
 
 ### 06-2 브로드캐스트 수신자 이해하기
 

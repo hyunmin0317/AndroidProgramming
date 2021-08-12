@@ -52,25 +52,25 @@
 
 * gravity 속성으로 텍스트뷰 안의 글자 편집
 
-  ![chap02-2/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image01.png?raw=true)
+  ![chap02-2/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section2/image01.png?raw=true)
 
   
 
 * 텍스트뷰와 버튼의 크기를 다르게 한 경우
 
-  ![chap02-2/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image02.png?raw=true)
+  ![chap02-2/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section2/image02.png?raw=true)
 
   
 
 * 뷰의 마진과 패딩 설정
 
-  ![chap02-2/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image03.png?raw=true)
+  ![chap02-2/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section2/image03.png?raw=true)
 
   
 
 * 여유 공간을 분할하는 layout_weight 속성
 
-  ![chap02-2/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image04.png?raw=true)
+  ![chap02-2/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section2/image04.png?raw=true)
 
 
 <br>
@@ -79,7 +79,7 @@
 
 * 상대 레이아웃 사용
 
-  ![chap02-2/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image05.png?raw=true)
+  ![chap02-2/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section2/image05.png?raw=true)
 
 * 상대 레이아웃에서 부모 컨테이너와의 상대적 위치를 이용하는 속성
 
@@ -102,7 +102,7 @@
 
 * 테이블 레이아웃 사용
 
-  ![chap02-2/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image06.png?raw=true)
+  ![chap02-2/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section2/image06.png?raw=true)
 
 <br>
 
@@ -110,7 +110,7 @@
 
 * 프레임 레이아웃을 이용해 이미지뷰 전환
 
-  ![chap02-2/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image07.png?raw=true)
+  ![chap02-2/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section2/image07.png?raw=true)
 
 <br>
 
@@ -118,5 +118,4 @@
 
 * 스크롤뷰 사용
 
-  ![chap02-2/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section2/github/image08.png?raw=true)
-  
+  ![chap02-2/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section2/image08.png?raw=true)

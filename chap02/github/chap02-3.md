@@ -8,19 +8,19 @@
 
 * 텍스트뷰에 maxLines 속성을 설정한 결과
 
-  ![chap02-3/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image01.png?raw=true)
+  ![chap02-3/image01](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image01.png?raw=true)
 
 * 라디오 버튼과 체크 박스를 추가한 화면 레이아웃
 
-  ![chap02-3/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image02.png?raw=true)
+  ![chap02-3/image02](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image02.png?raw=true)
 
 * 에디트텍스트를 추가한 화면 레이아웃
 
-  ![chap02-3/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image03.png?raw=true)
+  ![chap02-3/image03](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image03.png?raw=true)
 
 * 이미지 버튼과 이미지뷰를 추가한 화면 레이아웃
 
-  ![chap02-3/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image04.png?raw=true)
+  ![chap02-3/image04](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image04.png?raw=true)
 
 <br>
 
@@ -40,11 +40,11 @@
 
 * 상태 드로어블 만들기
 
-  ![chap02-3/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image05.png?raw=true)
+  ![chap02-3/image05](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image05.png?raw=true)
 
 * 셰이프 드로어블 만들기
 
-  ![chap02-3/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image06.png?raw=true)
+  ![chap02-3/image06](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image06.png?raw=true)
 
 <br>
 
@@ -76,11 +76,11 @@
 
 * 이벤트 처리 방식
 
-  ![chap02-3/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image07.png?raw=true)
+  ![chap02-3/image07](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image07.png?raw=true)
 
 * 제스처 이벤트 처리하기
 
-  ![chap02-3/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image08.png?raw=true)
+  ![chap02-3/image08](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image08.png?raw=true)
 
 * 키를 눌렀을 때 전달되는 대표적인 키 값
 
@@ -95,15 +95,15 @@
 
 * 키 이벤트 처리하기
 
-  ![chap02-3/image09](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image09.png?raw=true)
+  ![chap02-3/image09](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image09.png?raw=true)
 
 * 단말 방향을 전환했을 때 이벤트 처리하기
 
-  ![chap02-3/image10](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image10.png?raw=true)
+  ![chap02-3/image10](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image10.png?raw=true)
   
 * 단말 방향이 바뀔 때 액티비티를 유지하는 방법
 
-  ![chap02-3/image11](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image11.png?raw=true)
+  ![chap02-3/image11](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image11.png?raw=true)
 
 <br>
 
@@ -126,15 +126,15 @@
 
 * 토스트 모양 바꿔 보여주기
 
-  ![chap02-3/image12](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image12.png?raw=true)
+  ![chap02-3/image12](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image12.png?raw=true)
 
 * 스낵바 보여주기
 
-  ![chap02-3/image13](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image13.png?raw=true)
+  ![chap02-3/image13](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image13.png?raw=true)
 
 * 알림 대화상자 보여주기
 
-  ![chap02-3/image14](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image14.png?raw=true)
+  ![chap02-3/image14](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image14.png?raw=true)
 
 <br>
 
@@ -162,4 +162,4 @@
 
 * 화면에 추가된 막대형 프로그레스바와 대화상자로 띄운 원형 프로그레스바
 
-  ![chap02-3/image15](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/section3/github/image15.png?raw=true)
+  ![chap02-3/image15](https://github.com/hyunmin0317/AndroidProgramming/blob/master/chap02/github/image/section3/image15.png?raw=true)
